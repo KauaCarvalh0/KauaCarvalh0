@@ -1,7 +1,7 @@
 ## Olá! Eu não esperva você por aqui! Seja bem vindo! 👋
 
-![X Badge](https://x.com/i/flow/login?redirect_after_login=%2FKauCarv75289759)
-![Instagram Badge](https://www.instagram.com/kkaua_carv/?igsh=ODBqc3FnbmYybWZy)
+- [Twitter (X)](https://x.com/KauCarv75289759?t=vO8qfqvkV7c4N25BKN9cbw&s=09): Veja minhas últimas atualizações. 🌐
+- [Instagram](https://www.instagram.com/kkaua_carv?igsh=ODBqc3FnbmYybWZy): Algumas fotos! 🤳
 
 Sou um desenvolvedor apaixonado por tecnologia e programação.
 
