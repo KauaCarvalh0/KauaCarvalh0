@@ -1,16 +1,15 @@
-## Hi there 👋
+## Olá! Eu não esperva você por aqui! Seja bem vindo! 👋
 
-<!--
-**KauaCarvalh0/KauaCarvalh0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![X Badge](https://x.com/i/flow/login?redirect_after_login=%2FKauCarv75289759)
+![Instagram Badge](https://www.instagram.com/kkaua_carv/?igsh=ODBqc3FnbmYybWZy)
 
-Here are some ideas to get you started:
+Sou um desenvolvedor apaixonado por tecnologia e programação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**O que eu faço ✍**
+
+- *Desenvolvimento Web*: Estou aprendendo a trabalhar com HTML, CSS, JavaScript e diversos frameworks modernos. 💻
+- *Back-end*: Tenho experiência com linguagens como Python, Java, entre outras. 🖥
+- *Projetos Open Source*: Sou fã de contribuir para a comunidade de código aberto. 👨‍💻
+- *Toco Violão e Guitarra 🎸*
+- *Amo jogar jogos. 🎮*
+- *Fãnzaço da banda Jovem Dionisio!* "Acₒᵣda Pₑdᵣᵢₙₕₒ". 
