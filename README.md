@@ -20,23 +20,6 @@ Sinta-se à vontade para explorar meus repositórios e me seguir para acompanhar
 
 Obrigado pela visita! 🙌
 
-# Nome da Actions:  
-name: Snake Game
-
-# Controlador do tempo que sera feito a atualização dos arquivos.
-on:
-  schedule:
-      # Será atualizado a cada 5 horas.
-    - cron: "0 */5 * * *"
-
-# Permite executar na na lista de Actions (utilizado para testes de build).
-  workflow_dispatch:
-
-# Regras
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
 
     # Checks repo under $GITHUB_WORKSHOP, so your job can access it
       - uses: actions/checkout@v2
