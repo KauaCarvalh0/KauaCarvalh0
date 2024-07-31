@@ -1,5 +1,11 @@
 ## Olá! Eu não esperva você por aqui! Seja bem vindo! 👋
 
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/f51e8add-5194-4abc-a8af-f26f58dccb03" height="300" alt="youtube logo"  />
+</div>
+
+#
+
 Prazer meu nome é Kauã! Sou um desenvolvedor apaixonado por tecnologia e programação.
 
 **O que eu faço ✍**
