@@ -13,9 +13,22 @@ Prazer meu nome é Kauã! Sou um desenvolvedor apaixonado por tecnologia e progr
 
 ## Como me encontrar 🔍
 
-- [Twitter (X)](https://x.com/KauCarv75289759?t=vO8qfqvkV7c4N25BKN9cbw&s=09): Veja minhas últimas atualizações. 🌐
-- [Instagram](https://www.instagram.com/kkaua_carv?igsh=ODBqc3FnbmYybWZy): Algumas fotos! 🤳
+<div align="left">
+  <a href="https://www.youtube.com/@garotowolf" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
+    
+  </a>
+</div>
 
+
+    
+<div align="left">
+  <a href="https://www.instagram.com/kkaua_carv?igsh=ODBqc3FnbmYybWZy" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=purple&logoColor=white&labelColor=purple&style=for-the-badge" height="31" alt="instagram logo"  />
+  </a>
+</div>
+
+##
 Sinta-se à vontade para explorar meus repositórios e me seguir para acompanhar meus projetos futuros. Se quiser colaborar em um projeto ou tiver alguma dúvida, fique à vontade para entrar em contato! 
 
 Obrigado pela visita! 🙌
